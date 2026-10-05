@@ -21,7 +21,7 @@
 **1️⃣ Clone the project**
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/harborfoxcune3374/defi-arbitrage-toolkit
 cd <your-repo>
 ```
 
